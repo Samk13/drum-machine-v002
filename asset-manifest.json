@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/drum-machine-v002/static/css/main.2cce8147.chunk.css",
-    "main.js": "/drum-machine-v002/static/js/main.b010824a.chunk.js",
-    "main.js.map": "/drum-machine-v002/static/js/main.b010824a.chunk.js.map",
+    "main.css": "/drum-machine-v002/static/css/main.4c9511fc.chunk.css",
+    "main.js": "/drum-machine-v002/static/js/main.2e738460.chunk.js",
+    "main.js.map": "/drum-machine-v002/static/js/main.2e738460.chunk.js.map",
     "runtime~main.js": "/drum-machine-v002/static/js/runtime~main.0ae8f677.js",
     "runtime~main.js.map": "/drum-machine-v002/static/js/runtime~main.0ae8f677.js.map",
-    "static/js/2.b41502e9.chunk.js": "/drum-machine-v002/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/drum-machine-v002/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.0f58faaa.chunk.js": "/drum-machine-v002/static/js/2.0f58faaa.chunk.js",
+    "static/js/2.0f58faaa.chunk.js.map": "/drum-machine-v002/static/js/2.0f58faaa.chunk.js.map",
     "index.html": "/drum-machine-v002/index.html",
-    "precache-manifest.4eefb08a384112508ceb0aa05b473c52.js": "/drum-machine-v002/precache-manifest.4eefb08a384112508ceb0aa05b473c52.js",
+    "precache-manifest.024923b1aa6da504bca5ff27f23a346d.js": "/drum-machine-v002/precache-manifest.024923b1aa6da504bca5ff27f23a346d.js",
     "service-worker.js": "/drum-machine-v002/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/drum-machine-v002/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/drum-machine-v002/static/media/logo.5d5d9eef.svg"
+    "static/css/main.4c9511fc.chunk.css.map": "/drum-machine-v002/static/css/main.4c9511fc.chunk.css.map"
   }
 }
